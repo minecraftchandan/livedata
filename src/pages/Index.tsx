@@ -526,7 +526,7 @@ except Exception as e:
         {/* Footer */}
         <div className="text-center py-8 border-t">
           <p className="text-slate-600 dark:text-slate-400">
-            © 2024 Genshin Impact Survey Analysis | Student ID: 21MIC7040 | Chandan Sathvik
+            © 2025 Genshin Impact Survey Analysis | Student ID: 21MIC7040 | Chandan Sathvik
           </p>
         </div>
       </main>
