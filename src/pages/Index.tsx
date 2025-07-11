@@ -334,10 +334,12 @@ except Exception as e:
                   </ul>
                 </div>
                 <div className="flex items-center justify-center">
-                  <Button className="bg-green-600 hover:bg-green-700 text-white">
-                    <Download className="w-4 h-4 mr-2" />
-                    Download Preprocessed Dataset
-                  </Button>
+                  <a href="/preprocessed_21mic7040_dataset.xlsx" download="preprocessed_21mic7040_dataset.xlsx">
+  <Button className="bg-green-600 hover:bg-green-700 text-white">
+    <Download className="w-4 h-4 mr-2" />
+    Download Preprocessed Dataset
+  </Button>
+</a>
                 </div>
               </div>
             </SectionBlock>
